@@ -1,7 +1,7 @@
 # Olá! 👋 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+ <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" />
 </div>
 
 Desenvolvedora full-stack com um pé no design de interfaces e outro na infraestrutura. Gosto de transformar lógica complexa em experiências visuais fluidas.
