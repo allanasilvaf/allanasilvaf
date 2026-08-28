@@ -9,7 +9,7 @@ Desenvolvedora full-stack com um pé no design de interfaces e outro na infraest
 - 🎓 Estudando conceitos avançados de Arquitetura de Computadores e Matemática.
 - 💻 Explorando ecossistemas com **Vue.js**, **PHP**, **MySQL** e **Docker**.
 - 🚀 Focada no desenvolvimento de sistemas acadêmicos e projetos institucionais.
-- 🧠 Projeto atual: desbravando a construção de computadores do zero com Nand2Tetris.
+
 
 ### 🛠️ Minhas Ferramentas
 <div align="center">
